@@ -1,4 +1,4 @@
-module github.com/openai/openai-go
+module github.com/yekkhan-liftoff/openai-go/fix-pollstatus-issue
 
 go 1.21
 
